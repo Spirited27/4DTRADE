@@ -145,3 +145,13 @@ footer a {
     height: 30px;
     background: rgb(59, 118, 135);
 }
+
+.service {
+    color: black;
+    font-size: medium;
+    
+}
+
+.h {
+    color: blueviolet;
+}
